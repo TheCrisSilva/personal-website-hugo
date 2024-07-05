@@ -1,0 +1,3 @@
+[submodule "cris-portfolio/cris-portfolio/themes/hugo-profile"]
+	path = cris-portfolio/cris-portfolio/themes/hugo-profile
+	url = https://github.com/gurusabarish/hugo-profile.git
