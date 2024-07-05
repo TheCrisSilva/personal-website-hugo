@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Self on Cris Silva</title>
+    <link>http://localhost:1313/tags/self/</link>
+    <description>Recent content in Self on Cris Silva</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 05 Jul 2024 01:39:42 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/self/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How to Read</title>
+      <link>http://localhost:1313/blogs/how-to-read/</link>
+      <pubDate>Fri, 05 Jul 2024 01:39:42 +0200</pubDate>
+      <guid>http://localhost:1313/blogs/how-to-read/</guid>
+      <description>Paragraph Here&amp;rsquo;s how you get the best from your reading!&#xA;Reading does have its place, but it is not the be-all and end-all.&#xA;Reading can make you feel knowledgeable, it alone cannot make you competent in building or creating things like products, organisations, experiments, or even fixing your car.&#xA;For thousands of years, humans learned by doing and imitating others. This neural circuitry still dominates every human being.&#xA;Over time, our language and ability to read complex text has dramatically improved knowledge sharing across generations.</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Career on Cris Silva</title>
+    <link>http://localhost:1313/tags/career/</link>
+    <description>Recent content in Career on Cris Silva</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 05 Jul 2024 02:10:35 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/career/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Clarity and Focus</title>
+      <link>http://localhost:1313/blogs/test/</link>
+      <pubDate>Fri, 05 Jul 2024 02:10:35 +0200</pubDate>
+      <guid>http://localhost:1313/blogs/test/</guid>
+      <description>Paragraph Here&amp;rsquo;s how a young professional can navigate the Internet with Clarity and Focus. We consume information all day, primarily through social media apps and sites. The irony is that the more information becomes available, the shorter our attention spans seem to get, making it increasingly difficult to focus on what truly matters.</description>
+    </item>
+  </channel>
+</rss>
