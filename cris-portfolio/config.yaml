@@ -279,14 +279,14 @@ params:
     # title: "Custom Name"
     items:
       - title: Recipient of Swedish Institute Scholarship for Global Professionals (2023)  | Swedish Institute
-        content: I recieved a the scholarship for my work in sustainability and innovation.
+        content: I was honored to receive the SI scholarship in 2023, one of only nine recipients from Sri Lanka and among 299 globally from 41 eligible countries. This scholarship recognizes individuals who have demonstrated leadership and practical experience in advancing their country's sustainable development. My efforts focused on Sustainable Development Goal 9, promoting industry, innovation, and infrastructure.
         url: https://si.se/en/apply/scholarships/swedish-institute-scholarships-for-global-professionals/
         image: /images/SI-logo.jpg
       - title: 100 Leaders of Tommorows Biotechnology (2022) | GBR Cambridge
-        content: I was selected out of many applicants to be top 100 leaders in future biotechnology industry.
+        content: I was selected from a large pool of applicants as one of the top 100 future leaders in the biotechnology industry. The "Leaders of Tomorrow" program recognizes high-achieving individuals from around the world who work in fields ranging from biological sciences to business and policymaking. Through a rigorous selection process, 100 leaders are chosen to attend the GapSummit, where they are challenged and empowered to become socially responsible and driven innovators, capable of creating solutions to today's challenges.
         image: /images/GBR-lot.jpg
       - title: Node Leader, DinaCon (2022) | DinaLabs Batticaloa
-        content: I was one of the node leaders in Dinacon 22 and I have conducted workshops on mycelium material fabrication.
+        content: I was selected as a node leader at Dinacon 22, where I conducted workshops on mycelium material fabrication and collaborated on various projects throughout the conference.
         url: "https://www.2022.dinacon.org/"
         image: /images/dinacon.jpeg
       #- title: Microsoft Imagine Runner
@@ -349,7 +349,7 @@ params:
 
   #Contact
   contact:
-    enable: true
+    enable: false
     # title: "Custom Name"
     content: My inbox is always open. Whether you have a question or just want to say hi, I’ll try my best to get back to you!
     btnName: Mail me

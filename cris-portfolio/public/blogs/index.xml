@@ -6,21 +6,28 @@
     <description>Recent content in Blogs on Cris Silva</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 05 Jul 2024 02:10:35 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 05 Jul 2024 13:40:55 +0200</lastBuildDate>
     <atom:link href="http://localhost:1313/blogs/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Clarity and Focus</title>
+      <title>Lessons I Wish I Knew when I was doing my bachelors</title>
+      <link>http://localhost:1313/blogs/lessons-i-wish-i-knew/</link>
+      <pubDate>Fri, 05 Jul 2024 13:40:55 +0200</pubDate>
+      <guid>http://localhost:1313/blogs/lessons-i-wish-i-knew/</guid>
+      <description>There is an ongoing debate in every corner of offline and online societies about whether to pursue a traditional education, which is going to university after high school or developing a skill.&#xA;The traditional education system follows a one-size-fits-all model, leading to an outdated curriculum and the possibility of unused valuable information. However, it does help students become organised, and work with each other efficiently and effectively, those valuable qualities in the professional world.</description>
+    </item>
+    <item>
+      <title>How to navigate Internet with Clarity and Focus</title>
       <link>http://localhost:1313/blogs/test/</link>
       <pubDate>Fri, 05 Jul 2024 02:10:35 +0200</pubDate>
       <guid>http://localhost:1313/blogs/test/</guid>
-      <description>Paragraph Here&amp;rsquo;s how a young professional can navigate the Internet with Clarity and Focus.&#xA;We consume information all day, primarily through social media apps and sites. The irony is that the more information becomes available, the shorter our attention spans seem to get, making it increasingly difficult to focus on what truly matters.&#xA;To compound this problem, algorithms on social media platforms use complex ranking systems that prioritise content based on popularity, newness, and past interest.</description>
+      <description>Here&amp;rsquo;s how a young professional can navigate the Internet with Clarity and Focus.&#xA;We consume information all day, primarily through social media apps and sites. The irony is that the more information becomes available, the shorter our attention spans seem to get, making it increasingly difficult to focus on what truly matters.&#xA;To compound this problem, algorithms on social media platforms use complex ranking systems that prioritise content based on popularity, newness, and past interest.</description>
     </item>
     <item>
-      <title>How to Read</title>
+      <title>How to read properly</title>
       <link>http://localhost:1313/blogs/how-to-read/</link>
       <pubDate>Fri, 05 Jul 2024 02:10:35 +0200</pubDate>
       <guid>http://localhost:1313/blogs/how-to-read/</guid>
-      <description>this is test</description>
+      <description>Reading does have its place, but it is not the be-all and end-all.&#xA;Reading can make you feel knowledgeable, it alone cannot make you competent in building or creating things like products, organisations, experiments, or even fixing your car.&#xA;For thousands of years, humans learned by doing and imitating others. This neural circuitry still dominates every human being.&#xA;Over time, our language and ability to read complex text has dramatically improved knowledge sharing across generations.</description>
     </item>
     <item>
       <title>Render Math With Mathjax</title>

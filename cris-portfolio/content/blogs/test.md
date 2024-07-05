@@ -1,19 +1,17 @@
 ---
-title: "Clarity and Focus"
+title: "How to navigate Internet with Clarity and Focus"
 date: 2024-07-05T02:10:35+02:00
 draft: false
 github_link: "https://github.com/gurusabarish/hugo-profile"
 author: "Cris Silva"
 tags:
-  - innovation
-  - advice
-  - career
+  - career advice
 image: /images/post.jpg
 description: ""
 toc:
 ---
 
-## Paragraph
+
 
 Here's how a young professional can navigate the Internet with Clarity and Focus. 
 
@@ -26,6 +24,9 @@ As a result, the information you see on your feed may not necessarily cater to y
 This can be overwhelming and counterproductive, making it challenging to stay focused and make meaningful progress in your personal and professional life.
 
 Fortunately, there are strategies you can use to navigate the internet with clarity and purpose, allowing you to stay on top of the information overload and make the most of your time online.
+
+
+
 
 ####  1. Create a list of thought leaders, podcasters, and YouTubers you find interesting:
 
